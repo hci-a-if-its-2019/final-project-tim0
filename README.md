@@ -118,7 +118,43 @@ She is Informatics ITS 2017 student.
 4. **Participant**: Oke sebentar ya.
 5. (Participant sedang membuka webnya)
 6. **Participant**: Ini registernya sama loginnya gimana ya? Kok ga ada tombolnya.
-7. **Me**:
+7. **Me**: Hmm, coba dicari lagi deh caranya register dan loginnya.
+8. **Participant**: Iya deh, aku cari lagi nih
+9. (Participant mencoba dengan menekan tombol yang ada)
+10. **Participant**: Ini udah nih, tapi harus nekan salah satu fitur.
+11. **Me**: Oke, sekarang coba kamu cari kelas di jadwal tertentu.
+12. **Participant**: Oke, sebentar ya.
+13. (Participant mencari dan sudah menemukan, akan tetapi dia terlihat kebingungan)
+14. **Me**: Kenapa?
+15. **Participant**: Aku bingung sih, ini aku udah nemu sih, di fitur ruang kan? Tapi ini yang muncul malah kayak daftar ruang yang ada gitu bukan jadwal kelas.
+16. **Me**: Iya, fitur ruang itu memang isinya seperti itu, bukan jadwal kelas, coba dicari lagi deh yang ada jadwal kelasnya.
+17. **Participant**: Iya, ini mau nyari lagi aku.
+18. (Participant mencari lagi)
+19. **Participant**: Nah udah nemu nih, terus apalagi?
+20. **Me**: Sekarang coba kamu liat jumlah absen pada matkul tertentu deh.
+21. **Participant**: Siap
+22. (Participant mencari fitur tersebut dan terlihat bingung lagi)
+23. **Me**: Kenapa?
+24. **Participant**: Udah nemu sih, log attendance kan? Tapi ini kok isinya kayak status nya diterima atau engga nya ya? Dan ga ada mata kuliah tertentu.
+25. **Me**: Log attendance itu memang cuma menampilkan status aja sih, coba kamu cari lagi deh buat fiturnya.
+26. (Participant mencarinya lagi)
+27. **Participant**: Nih udah nemu, tapi kok nama fiturnya kurang jelas gini ya, kayak tadi kelas aku kira nama fiturnya itu ruang, dan yang absen aku kira nama fiturnya log attendance.
+28. **Me**: Sekarang coba kamu download apk dengan rate tertinggi.
+29. **Participant**: Oke, laksanakan.
+30. (Participant berusaha mendownload)
+31. **Participant**: Udah nih, apa lagi?
+32. **Me**: Udah? Ga ada masalah berarti ya? Kalau gitu coba kamu logout terus kamu ganti akun lain.
+33. **Participant**: Iya ga ada masalah kok. Oke deh.
+34. (Participant sedang mencari cara untuk logout)
+35. **Participant**: Ini kok ga ada tombol buat logout ya? Jadi ga bisa logout sama ganti akun ini.
+36. **Me**: Ada kok, coba dicari lagi deh.
+37. **Participant**: Hmm, iya.
+38. (Participant mencari cara untuk logout)
+39. **Participant**: Ini udah bisa logout dan ganti akun lain sih, tapi layar kenapa harus di rotate dulu biar bisa nemu tombol logout nya.
+40. **Me**: Hmm, oke oke, ada tanggapan lagi?
+41. **Participant**: Udah kok.
+42. **Me**: Oke, makasih ya sudah meluangkan waktunya.
+43. **Participant**: Iya sama-sama.
 
 ### Models and Annotations
 
