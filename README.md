@@ -375,6 +375,16 @@ She is Informatics ITS 2017 student.
 
 #### First Design
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Sketch%201/Before%20Login.jpg">
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Sketch%201/after%20login.jpg">
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Sketch%201/1F291A05-9301-4807-9891-06A402DB5441.jpg">
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Sketch%201/S__132702222.jpg">
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Sketch%201/S__132702223.jpg">
+
 #### Second Design
 
 ### 2. Version Differences
