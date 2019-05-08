@@ -60,23 +60,25 @@ She is Informatics ITS 2017 student.
 #### **Participant 1**:
 1. **Me**: Halo, terima kasih sudah mau diwawancarai, sebelumnya apakah dikelasmu pernah memakai aplikasi untuk absensi?
 2. **Participant**: Iya, sama sama. Belum pernah sih.
-3. **Me**: Oke, jadi sebelumnya ada aplikasi untuk melakukan absensi yaitu attendance. Attendance sendiri bisa didapatkan dari etc.if.its.ac.id, coba keluarin hape mu terus buka webnya terus register dan login.
+3. **Me**: Oke, jadi sebelumnya ada aplikasi untuk melakukan absensi yaitu attendance. Attendance sendiri bisa didapatkan dari etc.if.its.ac.id, coba dibuka linknya.
 4. **Participant**: Oke sebentar ya.
 5. (Participant sedang membuka webnya)
+6. **Participant**: Ini kenapa L di download nya huruf besar.
+6. **Me**: Oh iya,coba register dan login.
 6. **Participant**: Ini registernya gimana ya? Kok ga ada tombolnya.
 7. **Me**: Ga ada tombolnya ya? Coba di cari lagi
 8. **Participant**: Hmm iya kucoba coba dulu deh.
 9. (Participant mencoba-coba, dan menekan apapun yang bisa ditekan)
-10. **Participant**: Akhirnya nemu, tapi ini harus menekan salah satu fiturnya sih. Jadinya lebih susah.
+10. **Participant**: Akhirnya nemu, tapi ini harus menekan salah satu fiturnya sih. Jadinya lebih susah. Dan tombol register nya tidak langsung terlihat harus di dropdown dulu.
 11. **Me**: Oh, oke oke. Sekarang coba kamu cari kelas di jadwal tertentu.
 12. **Participant**: Oke.
-13.(Participant mencari tombol)
+13. (Participant mencari tombol)
 14. **Participant**: Ini udah, agenda ini kan?
 15. **Me**: Iya bener, ga ada masalah ya berarti.
 16. **Participant**: Iya ga ada masalah, cuma ini kok PIC nya dalam bentuk-bentuk angka, terus ini lokasinya buat apa? Menurutku sih harusnya PIC nya dalam bentuk namanya, dan harusnya ga perlu ada lokasinya juga sih.
 17. **Me**: Oke oke. Sekarang coba cari jumlah absen di mata kuliah tertentu.
 18. **Participant**: Oke sebentar ya.
-19(Participant mencari fitur)
+19 (Participant mencari fitur)
 20. **Participant**: Ini udah ketemu, terus apa?
 21. **Me**: Gimana? Ga kesusahan kan nemunya?
 22. **Participant**: Engga sih, tapi ini tulisan buat pertemuannya jelek banget.
