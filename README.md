@@ -205,6 +205,36 @@ She is Informatics ITS 2017 student.
 
 #### **Participant 4**:
 
+1. **Me**: Halo, terima kasih sudah mau diwawancarai, sebelumnya apakah dikelasmu pernah memakai aplikasi untuk absensi?
+2. **Participant**: Iya, sama sama. Belum pernah sih.
+3. **Me**: Oke, jadi sebelumnya ada aplikasi untuk melakukan absensi yaitu attendance. Attendance sendiri bisa didapatkan dari etc.if.its.ac.id, coba keluarin hape mu terus buka webnya terus register dan login.
+4. **Participant**: Oke sebentar ya.
+5. (Participant sedang membuka webnya)
+6. **Participant**: Sudah nih.
+7. **Me**: Oke, ada tanggapan?
+8. **Participant**: 2 kali klik, sudah cukup jelas saat tampilan dibuat fullscreen, tapi saat tampilan dikecilkan menu menu di navbar menghilang termasuk menu registernya. Sedangkan untuk loginnya sudah cukup jelas
+9. **Me**: Oke, sekarang coba kamu cari kelas di jadwal tertentu deh.
+10. (Participant sedang mencari fitur tersebut)
+11. **Participant**: Oke, sudah selesai apalagi?
+12. **Me**: Ada tanggapan?
+13. **Participant**: 1 kali klik, fungsi search juga ada, sayangnya QR Code terpotong walaupun memang bisa di scroll kesamping tapi akan lebih baik bila QR Code tidak terpotong saat kondisi full screen.
+14. **Me**: Hoo, oke oke. Sekarang coba kamu liat jumlah absen pada salah satu mata kuliah.
+15. **Participant**: Oke.
+16. (Participant mencari fitur tersebut)
+17. **Participant**: Udah nemu nih, disini butuh 3 kali klik sih buat nemunya, tadinya sempat klik ke menu log attendance, dan bukannya harusnya attendance log?
+18. **Me**: Hoo, oke oke, cuma itu aja kan?
+19. **Participant**: Iya cuma itu kok.
+20. **Me**: Oke, sekarang coba kamu download apknya dengan rate tertinggi.
+21. **Participant**: Oke.
+22. (Participant sedang mencoba download)
+23. **Participant**: Udah ke download nih, butuh 4 kali klik sih, tapi cukup bagus juga, kalau rate nya sama semua, maka diurutkan berdasarkan jumlah reviewnya.
+24. **Me**: Okesip, sekarang coba kamu logout dan ganti akun lain.
+25. **Participant**: Okidoki.
+26. (Participant sedang mencoba untuk logout dan ganti akun)
+27. **Participant**: Udah selesai nih, butuh 2 kali klik sih, dan entah kenapa disamping nama user itu ada 2 gambar panah, untuk loginnya lagi, bisa sih.
+28. **Me**: Udah? Kalau udah ya sudah sih, makasih atas komentar sama waktunya, sangat membantu.
+29. **Participant**: Sudah kok, sama sama.
+
 ### Models and Annotations
 
 ### Artifact Model
