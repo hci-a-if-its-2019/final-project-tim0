@@ -377,15 +377,11 @@ She is Informatics ITS 2017 student.
 
 #### Second Design
 
-#### Third Design
-
 ### 2. Version Differences
 
 #### First Design
 
 #### Second Design
-
-#### Third Design
 
 ### 3. Selected Sketch
 
