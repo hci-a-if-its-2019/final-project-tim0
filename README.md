@@ -389,7 +389,11 @@ She is Informatics ITS 2017 student.
 
 ### 3. Selected Sketch
 
+We prefer solution 1 as the selected sketch. Because it's simple, easy to be implemented, eye catching, intuitive, and informative.
+
 ### 4. Design Rationale
+
+The problem of the original website is there's too much feature that make the user confuse and there's something that should not be there or something not neat. From that, we can revision that design website to make it better.
 
 ## Part B: Assumptions
 
