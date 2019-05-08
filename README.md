@@ -32,19 +32,19 @@ Attendance Web Service is online web based attendance management system, used in
 ### User Description
 
 1. **Participant 1**:
-The participant is female, 20 years old.
+The participant is female, 19 years old.
 She is Informatics ITS 2017 student.
 
 2. **Participant 2**:
-The participant is female, 20 years old.
+The participant is female, 19 years old.
 She is Informatics ITS 2017 student.
 
 3. **Participant 3**:
-The participant is male, 20 years old.
+The participant is male, 19 years old.
 He is Informatics ITS 2017 student.
 
 4. **Participant 4**:
-The participant is male, 20 years old.
+The participant is male, 19 years old.
 He is Informatics ITS 2017 student.
 
 5. **Participant 5**:
@@ -52,7 +52,7 @@ The participant is female, 20 years old.
 She is Informatics ITS 2017 student.
 
 6. **Participant 6**:
-He participant is female, 20 years old.
+He participant is female, 18 years old.
 She is Informatics ITS 2017 student.
 
 ### Transcript
@@ -110,6 +110,13 @@ She is Informatics ITS 2017 student.
 ### Cultural Model
 
 #### **Participant 2**:
+1. **Me**: Halo, terima kasih sudah mau diwawancarai, sebelumnya apakah dikelasmu pernah memakai aplikasi untuk absensi?
+2. **Participant**: Iya, sama sama. Belum pernah sih.
+3. **Me**: Oke, jadi sebelumnya ada aplikasi untuk melakukan absensi yaitu attendance. Attendance sendiri bisa didapatkan dari etc.if.its.ac.id, coba keluarin hape mu terus buka webnya terus register dan login.
+4. **Participant**: Oke sebentar ya.
+5. (Participant sedang membuka webnya)
+6. **Participant**: Ini registernya sama loginnya gimana ya? Kok ga ada tombolnya.
+7. **Me**:
 
 ### Models and Annotations
 
