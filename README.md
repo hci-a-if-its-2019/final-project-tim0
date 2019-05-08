@@ -395,7 +395,23 @@ She is Informatics ITS 2017 student.
 
 ### 1. Hardware
 
+<ul>
+  <li>Computer with minimum requirement :</li>
+  <ul>
+    <li>Intel Dual-Core</li>
+    <li>Intel HD Graphic</li>
+    <li>2 GB RAM</li>
+  </ul>
+  <li>Using physical buttons (mouse / keyboard) or touch screen</li>
+</ul>
+
 ### 2. Users
+
+<ul>
+  <li>Familiar using web browser</li>
+  <li>User age range from 17 - 50 years old.</li>
+  <li>Student of Informatics Department</li>
+</ul>
 
 ## Part C: Prototypes  
 ### Freehand  
