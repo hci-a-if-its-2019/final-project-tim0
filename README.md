@@ -353,7 +353,17 @@ She is Informatics ITS 2017 student.
 
 #### Do's
 
+- Make an easier way to login, sign up,and logout by adding buttons
+
+- Change the app's logo to be more correlative to the function of the app itself
+
+- Use UI that users can intuitively guess its functionality
+
 #### Dont's
+
+- Display sistem error or something similar.
+
+- Use unstable UI (sometimes work and sometimes error).
 
 ## Sketching and Prototyping
 
