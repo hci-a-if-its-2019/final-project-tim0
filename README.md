@@ -3,7 +3,7 @@
 ## Member:
 
 1. Furqan Aliyuddien (05111740000124)
-2. Timothyus Tanner ()
+2. Timothyus Tanner (05111740000103)
 
 ## Topic:
 
