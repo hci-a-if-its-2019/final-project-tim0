@@ -8,6 +8,7 @@
 ## Topic:
 
 Attendance Web Service (etc.if.its.ac.id)
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/homepage.jpg">
 
 ## Description
 
@@ -15,7 +16,13 @@ Attendance Web Service is online web based attendance management system, used in
 
 ## Bad UI and UX
 
-### 
+### No Login and Register buttons
+
+### Showing irregular text to users
+
+### Layout unmatch in mobile version of web browser
+
+### Differentiation of features between normal users and administrators unclear, some administrator privilege shown in normal users view
 
 ## Contextual Inquiry and Analysis
 
@@ -406,13 +413,13 @@ The problem of the original website is there's too much feature that make the us
 ### 1. Hardware
 
 <ul>
-  <li>Computer with minimum requirement :</li>
+  <li>Phone with minimum requirement :</li>
   <ul>
     <li>Intel Dual-Core</li>
     <li>Intel HD Graphic</li>
-    <li>2 GB RAM</li>
+    <li>1 GB RAM</li>
   </ul>
-  <li>Using physical buttons (mouse / keyboard) or touch screen</li>
+  <li>touch screen</li>
 </ul>
 
 ### 2. Users
