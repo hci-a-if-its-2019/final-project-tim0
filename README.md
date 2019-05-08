@@ -247,6 +247,42 @@ She is Informatics ITS 2017 student.
 
 #### **Participant 5**:
 
+1. **Me**: Halo, terima kasih sudah mau diwawancarai, sebelumnya apakah dikelasmu pernah memakai aplikasi untuk absensi?
+2. **Participant**: Iya, sama sama. Belum pernah sih.
+3. **Me**: Oke, jadi sebelumnya ada aplikasi untuk melakukan absensi yaitu attendance. Attendance sendiri bisa didapatkan dari etc.if.its.ac.id, coba keluarin hape mu terus buka webnya terus register dan login.
+4. **Participant**: Oke sebentar ya.
+5. (Participant sedang membuka webnya)
+6. **Participant**: Ini gimana ya? Kok ga ada tombol buat register dan tombol buat loginnya?
+7. **Me**: Hmm, tapi bisa kok buat register dan login.
+8. **Participant**: Oh iya ta? Coba aku cari lagi deh kalau gitu.
+9. (Participant mencoba mencari nya lagi)
+10. **Participant**: Oke sudah sih, tapi agak bingung tadi di tampilan awalnya soalnya ga ada tombol buat register sama loginnya, ini aja ketemunya setelah klik salah satu fiturnya.
+11. **Me**: Hoo, oke, terus coba kamu cari kelas di jadwal tertentu.
+12. **Participant**: Oke.
+13. (Participant mencari fitur tersebut)
+14. **Participant**: Oke sudah.
+15. **Me**: Gimana? Ada komentar?
+16. **Participant**: Hmm, ini harusnya sih kalau menurut saya ga perlu ada tanggalnya. Itu aja sih.
+17. **Me**: Oke oke, makasih, terus coba kamu liat jumlah absensi pada mata kuliah tertentu.
+18. (Participant mencari fitur tersebut)
+19. **Participant**: Ini udah nih.
+20. **Me**: Gimana menurutmu?
+21. **Participant**: Ini aja sih, harusnya penulisan tanggalnya bisa lebih rapi lagi
+22. **Me**: Oke, makasih. Terus coba kamu download apknya dengan rate tertinggi.
+23. (Participant sedang berusaha untuk mendownload apk tersebut)
+24. **Participant**: Done.
+25. **Me**: Gimana?
+26. **Participant**: Ini aja sih, di bagian aplikasinya tidak ada keterangan itu aplikasi apa.
+27. **Me**: Oke oke, makasih, kalau gitu langsung coba logout terus ganti akun lain.
+28. (Participant mencoba logout dan ganti akun)
+29. **Participant**: Sudah nih.
+30. **Me**: Oke, ga ada kesulitan kan?
+31. **Participant**: Engga kok.
+32. **Me**: Oke, kalau gitu, terakhir, apakah ada tanggapan buat webnya?
+33. **Participant**: Itu sih, logo buat apknya ga nyambung, kenapa orang gitu.
+34. **Me**: Oke deh, makasih buat tanggapan dan waktunya, sangat membantu sekali.
+35. **Participant**: Oke, sama sama
+
 ### Models and Annotations
 
 ### Artifact Model
