@@ -105,9 +105,27 @@ She is Informatics ITS 2017 student.
 
 ### Artifact Model
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%201/BD.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%201/BD%202.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%201/BD%203.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%201/BD%204.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%201/BD%205.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%201/BD%206.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%201/BD%207.jpg">
+
 ### Flow Model
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%201/Capture.JPG">
+
 ### Cultural Model
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%201/Cultural%20Model.JPG">
 
 ### Transcript
 
@@ -161,9 +179,19 @@ She is Informatics ITS 2017 student.
 
 ### Artifact Model
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%202/1.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%202/830174.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%202/830176.jpg">
+
 ### Flow Model
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%202/Capture.JPG">
+
 ### Cultural Model
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%202/cultural.JPG">
 
 ### Transcript
 
@@ -197,9 +225,17 @@ She is Informatics ITS 2017 student.
 
 ### Artifact Model
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%203/14306.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%203/830175.jpg">
+
 ### Flow Model
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%203/Capture.JPG">
+
 ### Cultural Model
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%203/1.JPG">
 
 ### Transcript
 
@@ -239,9 +275,19 @@ She is Informatics ITS 2017 student.
 
 ### Artifact Model
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%204/830174.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%204/830177.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%204/830440.jpg">
+
 ### Flow Model
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%204/Capture.JPG">
+
 ### Cultural Model
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%204/1.JPG">
 
 ### Transcript
 
@@ -287,9 +333,21 @@ She is Informatics ITS 2017 student.
 
 ### Artifact Model
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%205/1.jpg">
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%205/830219.jpg">
+<br>
+<img src=""https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%205/830220.jpg>
+<br>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%205/830221.jpg">
+
 ### Flow Model
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%205/Capture.JPG">
+
 ### Cultural Model
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%205/2.JPG">
 
 ### Do's and Don't's
 
