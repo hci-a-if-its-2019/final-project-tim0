@@ -353,7 +353,7 @@ She is Informatics ITS 2017 student.
 <br>
 <img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%205/830219.jpg">
 <br>
-<img src=""https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%205/830220.jpg>
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%205/830220.jpg">
 <br>
 <img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Participant%205/830221.jpg">
 
@@ -435,7 +435,8 @@ The problem of the original website is there's too much feature that make the us
   <li>Phone with minimum requirement :</li>
   <ul>
     <li>CPU speed of 1.4 GHz</li>
-    <li>1 GB RAM</li>
+    <li>512 MB RAM</li>
+    <li>Have supported OS version (Android 4.1/Jelly Bean for Android Phone) </li>
     <li>Have web browser installed</li>
   </ul>
   <li>touch screen</li>
@@ -452,7 +453,12 @@ The problem of the original website is there's too much feature that make the us
 ## Part C: Prototypes  
 ### Freehand  
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/freehand.png">
+
 ### Prototype  
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/display.jpg">
+
 
 ### High Fidelity Version  
 
