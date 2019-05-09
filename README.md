@@ -403,11 +403,19 @@ She is Informatics ITS 2017 student.
 
 #### Second Design
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Sketch2/sketch2.jpg">
+
 ### 2. Version Differences
 
 #### First Design
+- list menu in homepage with 2 column grid
+- put login, register, and logout button directly on topbar
+- list date in attandance with easier way to read
 
 #### Second Design
+- list menu in homepage with single column
+- put login, register, and logout button in menu like button's dropdown
+- list date in attandance direcly in the columns header
 
 ### 3. Selected Sketch
 
