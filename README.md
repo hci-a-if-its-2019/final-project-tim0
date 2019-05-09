@@ -2,13 +2,13 @@
 
 ## Member:
 
-1. Furqan Aliyuddien (05111740000124)
-2. Timothyus Tanner (05111740000103)
+1. Timothyus Tanner (05111740000103)
+2. Furqan Aliyuddien (05111740000124)
 
 ## Topic:
 
 Attendance Web Service (etc.if.its.ac.id)
-<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/homepage.jpg">
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/homepage.jpg">
 
 ## Description
 
@@ -16,25 +16,34 @@ Attendance Web Service is online web based attendance management system, used in
 
 ## Bad UI and UX
 
-### No Login and Register buttons
+### Login and Register buttons hard to find
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/homepage.jpg">
 
 ### Showing irregular text to users
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/badtext.jpg">
+
 ### Layout unmatch in mobile version of web browser
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/layout.jpg">
+
 ### Differentiation of features between normal users and administrators unclear, some administrator privilege shown in normal users view
+
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/privilage.jpg">
 
 ## Contextual Inquiry and Analysis
 
 ### Instruction Script
-1. Buka browser pada HP
-2. Register akun baru 
+1. Open web browser on phone
+2. visit etc.if.its.ac.id
+2. Register a new account
 3. Login 
-4. Cari kelas di jadwal tertentu 
-5. Cari jumlah absen di matkul tertentu 
-6. Download apk dengan rate tertinggi
+4. Find class schedule
+5. Find attendance list in some class 
+6. Download apk with highest rating
 7. Logout 
-8. Login akun lain
+8. Login with another account
 
 ### User Description
 
@@ -415,9 +424,9 @@ The problem of the original website is there's too much feature that make the us
 <ul>
   <li>Phone with minimum requirement :</li>
   <ul>
-    <li>Intel Dual-Core</li>
-    <li>Intel HD Graphic</li>
+    <li>CPU speed of 1.4 GHz</li>
     <li>1 GB RAM</li>
+    <li>Have web browser installed</li>
   </ul>
   <li>touch screen</li>
 </ul>
@@ -425,7 +434,7 @@ The problem of the original website is there's too much feature that make the us
 ### 2. Users
 
 <ul>
-  <li>Familiar using web browser</li>
+  <li>Familiar using web browser in phone</li>
   <li>User age range from 17 - 50 years old.</li>
   <li>Student of Informatics Department</li>
 </ul>
