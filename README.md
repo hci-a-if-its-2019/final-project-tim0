@@ -405,6 +405,8 @@ She is Informatics ITS 2017 student.
 
 <img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Sketch2/sketch2.jpg">
 
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/Sketch2/login.jpg">
+
 ### 2. Version Differences
 
 #### First Design
