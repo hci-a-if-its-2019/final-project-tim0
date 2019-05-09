@@ -39,9 +39,9 @@ Attendance Web Service is online web based attendance management system, used in
 2. visit etc.if.its.ac.id
 2. Register a new account
 3. Login 
-4. Find class schedule
-5. Find attendance list in some class 
-6. Download apk with highest rating
+4. Find class in specific schedule
+5. look for absences in certain course 
+6. Download apk with the highest rate
 7. Logout 
 8. Login with another account
 
