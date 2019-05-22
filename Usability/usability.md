@@ -10,13 +10,20 @@
 ### 1. Brief Description of Participants
 
 #### a. Description of Participant 1 (NEW)
- - The participant is a male
- - He is 19 years old
- - He is Informatics ITS 2017 student
- - Having good experinece in design
+- The participant is a male
+- He is 19 years old
+- He is Informatics ITS 2017 student
+- Having good experinece in design
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+- The participant is a female
+- She is 18 years old
+- She is Informatics ITS 2017 student
+
+#### c. Description of Participant 3
+- The participant is a female
+- She is 19 years old
+- She is Informatics ITS 2017 student
 
 ### 2. Evaluation Script (Just like before except first and second instruction)
 1. Register new account
