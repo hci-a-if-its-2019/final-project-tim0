@@ -2,7 +2,7 @@
 
 ## Operating the Prototype
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+<a href="https://youtu.be/QF-xnB9Ql_0">Video</a>
 
 
 ## Part A: Usability Evaluation
