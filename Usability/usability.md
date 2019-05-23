@@ -53,9 +53,9 @@ Link for transcript : <a href="https://github.com/hci-a-if-its-2019/final-projec
 <img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/signinlogin.png">
 
  - **Reference**: Transcript b. line 8,20
- - **Feedback**: change background colour
- - **Incidence**: Unconsistence in using sign in and login
- - **Reason**: typos
+ - **Feedback**: Unconsistence in using sign in and login
+ - **Incidence**: 
+ - **Reason**:
  - **Resolution**: change sign in to login, to differ between sign in and sign up
  
 #### OBSERVATION 3
