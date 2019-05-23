@@ -41,12 +41,10 @@ Link for transcript : <a href="https://github.com/hci-a-if-its-2019/final-projec
 ### 4. Feedback and Incidence Analysis
 
 #### OBSERVATION 1
-![Prototype Screen 1]
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/downl.png">
 
  - **Reference**: Transcript a.24
- - **Feedback**: 
-  --Show only most updated APK in Downloads, provide other link for older APK's.
-  --Add profile photo
+ - **Feedback**: Show only most updated APK in Downloads, provide other link for older APK's, Add profile photo
  - **Incidence**: 
  - **Reason**: 
  - **Resolution**: redesign Download page
