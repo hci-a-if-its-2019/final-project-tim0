@@ -41,13 +41,15 @@ Link for transcript : <a href="https://github.com/hci-a-if-its-2019/final-projec
 ### 4. Feedback and Incidence Analysis
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Prototype Screen 1]
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: Transcript a.24
+ - **Feedback**: 
+  --Show only most updated APK in Downloads, provide other link for older APK's.
+  --Add profile photo
+ - **Incidence**: 
+ - **Reason**: 
+ - **Resolution**: redesign Download page
  
 #### OBSERVATION 2
 ![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
