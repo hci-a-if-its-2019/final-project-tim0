@@ -78,7 +78,5 @@ Link for transcript : <a href="https://github.com/hci-a-if-its-2019/final-projec
 #### Design 2
 <img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/design2.png">
 
-### Design Rationale
-
 ### High-Fidelity Interactive-Prototype
 <a href="https://invis.io/BJS5W4OSNR5">Link</a>
