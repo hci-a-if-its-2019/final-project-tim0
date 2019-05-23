@@ -75,4 +75,4 @@ Link for transcript : <a href="https://github.com/hci-a-if-its-2019/final-projec
 ### Design Rationale
 
 ### High-Fidelity Interactive-Prototype
-<a href="">Link</a>
+<a href="https://invis.io/BJS5W4OSNR5">Link</a>
