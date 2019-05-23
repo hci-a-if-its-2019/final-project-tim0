@@ -80,7 +80,7 @@
 20. **Participant** : Untuk yang download, lebih baik jika ada isi di tabel-tabelnya.
 21. **Me** : Oke, kalau gitu coba logout dan ganti akun deh.
 22. (Participant sedang mencoba log out)
-23 **Participant** : Sudah.
+23. **Participant** : Sudah.
 24. **Me** : Oke, makasih ya atas waktunya.
 25. **Participant** : Sama-sama.
 
