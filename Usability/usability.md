@@ -59,7 +59,7 @@ Link for transcript : <a href="https://github.com/hci-a-if-its-2019/final-projec
  - **Resolution**: change sign in to login, to differ between sign in and sign up
  
 #### OBSERVATION 3
-<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/fontsize.png">
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/fontsizes.png">
 
  - **Reference**: transcript c. line 11
  - **Feedback**: font sizes unbalanced
