@@ -50,13 +50,13 @@ Link for transcript : <a href="https://github.com/hci-a-if-its-2019/final-projec
  - **Resolution**: redesign Download page
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/signinlogin.png">
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: Transcript b. line 8,20
+ - **Feedback**: change background colour
+ - **Incidence**: Unconsistence in using sign in and login
+ - **Reason**: typos
+ - **Resolution**: change sign in to login, to differ between sign in and sign up
  
 #### OBSERVATION 3
 ![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
