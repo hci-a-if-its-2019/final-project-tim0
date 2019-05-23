@@ -43,7 +43,7 @@ Link for transcript : <a href="https://github.com/hci-a-if-its-2019/final-projec
 #### OBSERVATION 1
 <img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/downl.png">
 
- - **Reference**: Transcript a.24
+ - **Reference**: Transcript a. line 24
  - **Feedback**: Show only most updated APK in Downloads, provide other link for older APK's, Add profile photo
  - **Incidence**: 
  - **Reason**: 
@@ -59,23 +59,18 @@ Link for transcript : <a href="https://github.com/hci-a-if-its-2019/final-projec
  - **Resolution**: change sign in to login, to differ between sign in and sign up
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+<img src="https://github.com/hci-a-if-its-2019/final-project-tim0/blob/master/images/fontsize.png">
 
- - **Reference**:  
- - **Feedback**: 
+ - **Reference**: transcript c. line 11
+ - **Feedback**: font sizes unbalanced
  - **Incidence**: 
  - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
- 
- ---
+ - **Resolution**: rebalance font sizes
+
 
 ## Part B: Prototyping (again)
 
 ### Sketch
-
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
 
 ### Design Rationale
 
